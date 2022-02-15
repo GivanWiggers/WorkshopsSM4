@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         val buttonClick = findViewById<Button>(R.id.buttonChange)
         buttonClick.setOnClickListener{
             val textView = findViewById<TextView>(R.id.textviewChange)
-            val message = textView.getText().toString();
+            val message = textView.getText().toString()
             val intent = Intent(this, NewActivity::class.java)
             intent.putExtra("message", message)
             startActivity(intent)
