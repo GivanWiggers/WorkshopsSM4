@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537214839854",
+    "project_id": "workshop3storingdata",
+    "storage_bucket": "workshop3storingdata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537214839854:android:b0a86de67fb93611bb43bf",
+        "android_client_info": {
+          "package_name": "com.example.workshop3storingdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537214839854-fdkqfdrknil1r4k0u5fr5dcgdmfm49kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1GGDbwznz1FzRkvAUMf-OzZVzUNecL-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537214839854-fdkqfdrknil1r4k0u5fr5dcgdmfm49kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
