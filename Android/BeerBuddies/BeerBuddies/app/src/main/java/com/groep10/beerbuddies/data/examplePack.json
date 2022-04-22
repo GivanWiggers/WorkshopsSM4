@@ -1,0 +1,29 @@
+{
+  "id": 1,
+  "name": "Party Pack 1",
+  "cards": [
+    {
+      "id": 1,
+
+      "challenge": "Do this then do that example",
+      "sips": 2,
+      "players": 1
+  },
+    {
+      "id": 2,
+
+      "challenge": "Do this then do that example",
+      "sips": 1,
+      "players": 1
+    },
+    {
+      "id": 3,
+
+      "challenge": " ... do this to ...",
+      "sips": 3,
+      "players": 2
+    }
+  ],
+  "type": 0,
+  "difficulty": "Beginner"
+}

@@ -1,0 +1,38 @@
+{
+  "id": 1,
+  "name": "Game Example",
+  "players": [
+    {
+      "id": 1,
+      "name": "Player 1 Example",
+      "color": 1,
+      "sips": 0,
+      "drank": 0,
+      "challenges": 0
+    },
+    {
+      "id": 2,
+      "name": "Player 2 Example",
+      "color": 2,
+      "sips": 0,
+      "drank": 0,
+      "challenges": 0
+    }
+  ],
+  "packId": 1,
+  "miniGames": [
+    {
+      "id": 1,
+      "title": "Juffen",
+      "challenge": "Example tekst waar 7 in voorkomt",
+      "sips": 2
+    },
+    {
+      "id": 2,
+      "title": "Mexen",
+      "challenge": "Example tekst waar 21 in voorkomt",
+      "sips": 2
+    }
+  ]
+
+}

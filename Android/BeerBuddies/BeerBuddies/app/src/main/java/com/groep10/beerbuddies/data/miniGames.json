@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Juffen",
+    "challenge": "Everybody starts counting together one by one and says it aloud, except numbers with a 7 or its multiples, in which case, you have to say 'Juf'. If you don't, you drink.",
+    "sips": 1
+  },
+  {
+    "id": 2,
+    "title": "Straight Face",
+    "challenge": "Everybody writes a funny or inappropriate sentences on small pieces of paper. Each player picks up a chit of paper and tries to keep a straight face. The one who giggles or reacts has to drink!",
+    "sips": 1
+  },
+  {
+    "id": 3,
+    "title": "21",
+    "challenge": "You sit in a circle and count to 21. Counting 2 numbers will reverse the order, counting 3 numbers will skip the next person. If you say 21 you drink",
+    "sips": 1
+  },
+  {
+    "id": 4,
+    "title": "Don't stare at me!",
+    "challenge": "Everybody sits in a circle and looks down. At the count of three, everybody looks up and fixes their eyes on somebody. When two people lock eyes, they drink and are eliminated. Last 2 (or 1) players can drink in victory or shake hands. ",
+    "sips": 1
+  },
+  {
+    "id": 5,
+    "title": "Playground insults",
+    "challenge": "Appoint two players to sit in front of each other. Take turns insulting each other in the most ridiculous way possible. Whomever anyone lets a chuckle escape, that person must take a drink",
+    "sips": 1
+  },
+  {
+    "id": 6,
+    "title": "I drink and I know things",
+    "challenge": "Youngest players starts. A players says 'I drink and I know..' followed by a trivia question they know the answer to. The player who knows the answer yells it as fast as they can. Everybody else has to drink. Player who got the answer is next. If nobody got it everybody drinks and player asks again.",
+    "sips": 0
+  },
+  {
+    "id": 7,
+    "title": "Most Likely to",
+    "challenge": "Fart in front of strangers (Most fingers drinks 3, second drinks 2 and everybody else who got pointed towards drinks 1)",
+    "sips": 0
+  },
+  {
+    "id": 8,
+    "title": "Most Likely to",
+    "challenge": "...(Most fingers drinks 3, second drinks 2 and everybody else who got pointed towards drinks 1)",
+    "sips": 0
+  }
+]
