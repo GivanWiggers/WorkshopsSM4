@@ -21,3 +21,16 @@ Ik heb zelf samen met [Bram](https://git.fhict.nl/I431978) gewerkt aan de locati
 Later hebben we hier uiteindelijk mijn idee om de plattegrond van het floriade als overlay te gebruiken toegevoegd. Hierdoor zie je ook waar je op de floriade opdat moment loopt. Na verschillende plattegronden en verschillende keren de voet te hebben gemaakt en toegevoegd aan die plattegrond kwamen we uiteindelijk bij dit design uit:
 
 ![alt text](https://github.com/GivanWiggers/WorkshopsSM4/blob/main/FloriadeiOS/MapOverlay.jpeg)
+
+Binnen dit project was design, dus ook een heel belangrijk onderdeel, daarom hebben we ook verschillende familieleden en vrienden onze app laten testen zonder enige informatie over de app zelf. Hier hebben we een hele hoop aanpassingen binnen design als functionele aanpassing door gemaakt. Om de app vervolgens weer opnieuw te user testen en weer met nieuwe bugs of problemen te komen.
+
+Nadat we uiteindelijk door de user tests kwamen en de enige dingen die nog waren aangekaart goed overwogen niets meer mee werd gedaan, hebben we bijna een hele week besteed van de tijd aan de bugfixes, grootte van de app en efficiëntie.
+
+Met trots durf ik te zeggen dat we trots mogen zijn op wat we hebben neergezet en iedereen vanuit de Floriade als er omheen was er heel enthousiast over. Naast het feit dat dit is laten zien door het enthousiasme, spreekt het boekdelen dat de hoofd architect aan Koning Willem-Alexander de app heeft laten zien en over vertelt.
+
+Er zou op het terrein van de Floriade een bord voor ons worden opgehangen bij de kiosk over de voetafdruk. Dit hadden we met de hoofd architect besproken en hier hebben we ook samen met het andere groepje besproken hoe het bord er uit ging zien. Hier kwam een QR-code die verwees richting de app op te staan. Deze QR-code redirect nu vanuit een server door naar de Play Store of de App store (op de redirect website wordt gecontroleerd wat voor operating system je gebruikt). 
+
+Voor or nu hangt dit bord nog niet, maar houden we onze cijfers op de app store ook goed in de gaten:
+
+### Mei 12 2022
+![Maart31 tot Mei12 charts](https://github.com/GivanWiggers/WorkshopsSM4/blob/main/FloriadeiOS/Mar31_May12.png)
