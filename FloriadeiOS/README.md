@@ -28,9 +28,12 @@ Nadat we uiteindelijk door de user tests kwamen en de enige dingen die nog waren
 
 Met trots durf ik te zeggen dat we trots mogen zijn op wat we hebben neergezet en iedereen vanuit de Floriade als er omheen was er heel enthousiast over. Naast het feit dat dit is laten zien door het enthousiasme, spreekt het boekdelen dat de hoofd architect aan Koning Willem-Alexander de app heeft laten zien en over vertelt.
 
+Zo hebben we ook in het Fontys nieuws gestaan: [Fontys News Floriade](https://github.com/GivanWiggers/WorkshopsSM4/blob/main/FloriadeiOS/NieuwsFontysFloriade.png)
+
 Er zou op het terrein van de Floriade een bord voor ons worden opgehangen bij de kiosk over de voetafdruk. Dit hadden we met de hoofd architect besproken en hier hebben we ook samen met het andere groepje besproken hoe het bord er uit ging zien. Hier kwam een QR-code die verwees richting de app op te staan. Deze QR-code redirect nu vanuit een server door naar de Play Store of de App store (op de redirect website wordt gecontroleerd wat voor operating system je gebruikt). 
 
 Voor or nu hangt dit bord nog niet, maar houden we onze cijfers op de app store ook goed in de gaten:
 
 ### Mei 12 2022
 ![Maart31 tot Mei12 charts](https://github.com/GivanWiggers/WorkshopsSM4/blob/main/FloriadeiOS/Mar31_May12.png)
+
