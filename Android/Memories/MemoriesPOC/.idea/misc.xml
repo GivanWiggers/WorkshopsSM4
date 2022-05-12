@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2085" />
+        <entry key="app/src/main/res/layout/home_smallcard.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/home_bigcard.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_photo.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_camera.xml" value="0.2485107421875" />
+        <entry key="app/src/main/res/layout/activity_yourrecentmemories.xml" value="0.2828125" />
+        <entry key="app/src/main/res/layout/activity_photoviewer.xml" value="0.23006439208984375" />
+        <entry key="app/src/main/res/layout/activity_mostpopularplaces.xml" value="0.2518315633138019" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.27180786132812496" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.3001576741536459" />
+        <entry key="app/src/main/res/drawable/orange_arrow.xml" value="0.251" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/circle2.xml" value="0.235" />
+        <entry key="app/src/main/res/drawable/circle.xml" value="0.235" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/layout/fragment_map.xml" value="0.22826086956521738" />
+        <entry key="../../../../../../../../layout/custom_preview.xml" value="0.32083333333333336" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.15" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/drawable/bottom_navigation.xml" value="0.124" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/drawable/circle.xml" value="0.124" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/drawable/home_full.xml" value="0.15" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/drawable/home_outline.xml" value="0.15" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/drawable/home_selector.xml" value="0.15" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.15" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.15" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/drawable/ic_baseline_add_circle_48.xml" value="0.15" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.15" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.15" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/drawable/ic_baseline_map_24.xml" value="0.15" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/drawable/ic_baseline_photo_camera_24.xml" value="0.15" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/drawable/ic_launcher_background.xml" value="0.15" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/drawable/map_full.xml" value="0.15" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/drawable/map_outline.xml" value="0.15" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/drawable/map_selector.xml" value="0.15" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/layout/activity.xml" value="0.22826086956521738" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/layout/activity_home.xml" value="0.11302083333333333" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/layout/activity_main.xml" value="0.10175438596491228" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/layout/activity_main2.xml" value="0.1068840579710145" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/layout/fragment_home.xml" value="0.1068840579710145" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/layout/fragment_map.xml" value="0.21138211382113822" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/layout/fragment_photo.xml" value="0.22826086956521738" />
+        <entry key="..\:/Documents/GitHub/Memories/SM4groep10/Android/MemoriesPOC/app/src/main/res/menu/bottom_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documents/GitHub/SmartMobileAndroid/SM4groep10/Android/MemoriesPOC/app/src/main/res/drawable/bottom_navigation.xml" value="0.22" />
+        <entry key="..\:/Documents/GitHub/SmartMobileAndroid/SM4groep10/Android/MemoriesPOC/app/src/main/res/drawable/bottum_avigation.xml" value="0.3675" />
+        <entry key="..\:/Documents/GitHub/SmartMobileAndroid/SM4groep10/Android/MemoriesPOC/app/src/main/res/drawable/home_full.xml" value="0.196" />
+        <entry key="..\:/Documents/GitHub/SmartMobileAndroid/SM4groep10/Android/MemoriesPOC/app/src/main/res/drawable/home_selector.xml" value="0.196" />
+        <entry key="..\:/Documents/GitHub/SmartMobileAndroid/SM4groep10/Android/MemoriesPOC/app/src/main/res/drawable/itm_size.xml" value="0.196" />
+        <entry key="..\:/Documents/GitHub/SmartMobileAndroid/SM4groep10/Android/MemoriesPOC/app/src/main/res/drawable/map_selector.xml" value="0.179" />
+        <entry key="..\:/Documents/GitHub/SmartMobileAndroid/SM4groep10/Android/MemoriesPOC/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Documents/GitHub/SmartMobileAndroid/SM4groep10/Android/MemoriesPOC/app/src/main/res/layout/fragment_home.xml" value="0.16" />
+        <entry key="..\:/Documents/GitHub/SmartMobileAndroid/SM4groep10/Android/MemoriesPOC/app/src/main/res/layout/fragment_map.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documents/GitHub/SmartMobileAndroid/SM4groep10/Android/MemoriesPOC/app/src/main/res/layout/fragment_photo.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documents/GitHub/SmartMobileAndroid/SM4groep10/Android/MemoriesPOC/app/src/main/res/menu/bottom_menu.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.223" />
+        <entry key="app/src/main/res/drawable/bottom_navigation 2.xml" value="0.251" />
+        <entry key="app/src/main/res/drawable/bottom_navigation.xml" value="0.229" />
+        <entry key="app/src/main/res/drawable/home_full.xml" value="0.223" />
+        <entry key="app/src/main/res/drawable/home_outline 2.xml" value="0.251" />
+        <entry key="app/src/main/res/drawable/home_outline.xml" value="0.223" />
+        <entry key="app/src/main/res/drawable/home_selector.xml" value="0.223" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.223" />
+        <entry key="app/src/main/res/drawable/map_selector.xml" value="0.223" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.40989583333333335" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.40989583333333335" />
+        <entry key="app/src/main/res/layout/activity_my_camera.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/fragment_camera.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.40989583333333335" />
+        <entry key="app/src/main/res/layout/fragment_map.xml" value="0.40989583333333335" />
+        <entry key="app/src/main/res/layout/fragment_photo.xml" value="0.40989583333333335" />
+        <entry key="app/src/main/res/layout/home_bigcard.xml" value="0.40989583333333335" />
+        <entry key="app/src/main/res/layout/home_smallcard.xml" value="0.40989583333333335" />
+        <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.40989583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.152" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/home2">
+
+    <fragment
+        android:id="@+id/home2"
+        android:name="com.example.memoriespoc.home"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_home2_to_map"
+            app:destination="@id/map" />
+    </fragment>
+    <fragment
+        android:id="@+id/map"
+        android:name="com.example.memoriespoc.map"
+        android:label="fragment_map"
+        tools:layout="@layout/fragment_map" />
+    <fragment
+        android:id="@+id/photo"
+        android:name="com.example.memoriespoc.photo"
+        android:label="fragment_photo"
+        tools:layout="@layout/fragment_photo" />
+</navigation>

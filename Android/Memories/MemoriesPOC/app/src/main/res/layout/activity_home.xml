@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivity"
+    >
+
+
+<TextView
+        android:id="@+id/lblYourRecentMemories"
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/inter_black"
+        android:text="@string/yrm"
+        android:textColor="@color/textMain"
+        android:textSize="30sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/lblSeeAll1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="32dp"
+        android:clickable="true"
+        android:fontFamily="@font/inter_medium"
+        android:padding="5dp"
+        android:text="@string/see_all"
+        android:textColor="@color/textSecondary"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toBottomOf="@+id/lblYourRecentMemories"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="DuplicateSpeakableTextCheck, TouchTargetSizeCheck,TextContrastCheck" />
+
+    <HorizontalScrollView
+        android:id="@+id/horizontalScroll1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:scrollbars="none"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lblYourRecentMemories">
+
+        <LinearLayout
+            android:id="@+id/containerBigCard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <!-- This is where home_bigcard gets placed -->
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+    <TextView
+        android:id="@+id/lblMostPopularPlaces"
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/inter_black"
+        android:text="@string/mpp"
+        android:textColor="@color/textMain"
+        android:textSize="30sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/horizontalScroll1" />
+
+    <TextView
+        android:id="@+id/lblSeeAll2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="32dp"
+        android:clickable="true"
+        android:fontFamily="@font/inter_medium"
+        android:padding="5dp"
+        android:text="@string/see_all"
+        android:textColor="@color/textSecondary"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toBottomOf="@+id/lblMostPopularPlaces"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="TouchTargetSizeCheck,TextContrastCheck" />
+
+    <HorizontalScrollView
+        android:id="@+id/horizontalScroll2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:scrollbars="none"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lblMostPopularPlaces">
+
+        <LinearLayout
+            android:id="@+id/containerSmallCard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <!-- This is where home_smallcard gets placed -->
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
