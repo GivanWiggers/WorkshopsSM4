@@ -34,3 +34,5 @@ Voor or nu hangt dit bord nog niet, maar houden we onze cijfers op de app store 
 
 ### Mei 12 2022
 ![Maart31 tot Mei12 charts](https://github.com/GivanWiggers/WorkshopsSM4/blob/main/FloriadeiOS/Mar31_May12.png)
+
+![Fontys News Floriade](https://github.com/GivanWiggers/WorkshopsSM4/blob/main/FloriadeiOS/NieuwsFontysFloriade.png)
