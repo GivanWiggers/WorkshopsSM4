@@ -1,0 +1,51 @@
+.stats-container{
+    margin: auto;
+    margin-top: 1vh;
+    width: 95%;
+    height: 25vh;
+    border-radius: 10px;
+    background-color: #2D2F32;
+    overflow: hidden;
+    color: white;
+  
+    .stats-topper{
+      width: 100%;
+      height: 30%;
+      display: flex;
+      justify-content: space-between;
+      font-family: Inter-semibold;
+      align-items: baseline;
+      overflow-y: hidden;
+      .stats-title{
+        padding: 15px;
+        width: 60%;
+      }
+      p{
+        align-self: center;
+        color: #DD8419;
+        opacity: 40%;
+        margin: auto;
+      }
+    }
+    .stats-info{
+      font-family: Inter-bold;
+      vertical-align: middle;
+      flex-direction: column;
+      height: 70%;
+      margin-bottom: 10px;
+      div {
+        
+        width: 80%;
+        height: 25%;
+        margin-left: 10%;
+        display: flex;
+        justify-content: space-between;
+        .stats-name {
+          font-size: 16px;
+        }
+        .stats-statistics{
+          font-size: 16px;
+        }
+      }
+    }
+  }

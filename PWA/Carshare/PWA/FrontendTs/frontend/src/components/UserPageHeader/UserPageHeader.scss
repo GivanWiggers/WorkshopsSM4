@@ -1,0 +1,41 @@
+.user-container {
+    color: white;
+    width: 100vw;
+    background-color: #2D2F32;
+    margin-top: 0;
+    height: 26.125%;
+    position: relative;
+    
+    .avatarImage-container{
+        height: 18vh;
+        overflow: hidden;
+        width: inherit;
+    }
+}
+
+.avatar{
+    text-align: center !important;
+    margin-top: calc(((100vh*0.26125) - 128px)*0.3);
+    margin-left: calc((100vw - 128px)/2);
+    position: absolute !important;
+
+}
+
+.username {
+    font-family: Inter-semibold;
+    bottom: 0;
+    margin: 15px;
+    position: absolute;
+    font-weight: 100;
+    font-size: 24px;
+}
+
+.backButton {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 10px;
+    font-size: 15px;
+    font-family: Inter-medium;
+    display: flex;
+    align-items:center;
+}

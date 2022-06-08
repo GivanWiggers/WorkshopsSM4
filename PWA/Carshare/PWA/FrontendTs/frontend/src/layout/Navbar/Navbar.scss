@@ -1,0 +1,80 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    box-shadow: 0 4px 4px rgba($color: #000000, $alpha: 0.25);
+    background-color: #2D2F32;
+    margin-bottom: 1rem;
+    height: 10%;
+    margin-bottom: 0;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+
+    img {
+        height: 50px;
+        object-fit: cover;
+        margin-right: 2rem;
+        &:hover {
+            cursor: pointer;
+        }
+    }
+
+    section {
+        text-align: center;
+        padding-left: 1rem;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        color: rgb(255, 255, 255);
+        width: inherit;
+        padding: 0;
+
+        .HomeNavBar{
+            display: flex;
+            flex-direction: column;
+            width: 50%;
+            align-items: center;
+        }
+
+        p {
+            width: 50%;
+            padding-inline: 1.5rem;
+            font-size: 20px;
+            font-family: "Inter-regular";
+            cursor: pointer;
+            
+            &:hover {
+                text-decoration: underline;
+            }
+            padding: 0;
+            margin-top: -2vh;
+        }
+
+        .Name-Container > p {
+            font-size: 14px;
+            margin: 0;
+            text-align: end;
+            padding-inline: 0.5rem;
+
+            &:last-child {
+                font-size: 12px;
+            }
+        }
+
+        svg {
+            font-size: 60px !important;
+            padding-inline: 0.5rem;
+
+            &:hover {
+                cursor: pointer;
+            }
+        }
+
+        
+    }
+}
+
+.bold-text {
+    font-weight: bold;
+}

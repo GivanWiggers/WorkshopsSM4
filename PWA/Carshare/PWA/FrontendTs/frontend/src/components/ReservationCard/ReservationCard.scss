@@ -1,0 +1,32 @@
+.reservation-container{
+    margin: auto;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    width: 95%;
+    height: 70px;
+    border-radius: 10px;
+    background-color: #2D2F32;
+    overflow: hidden;
+    color: white;
+    .reservation-info{
+      font-family: Inter-semibold;
+      vertical-align: middle;
+      height: 100%;
+      flex-direction: row;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      h1{
+          margin: auto;
+      }
+      .reservation-avatar{
+          margin: auto;
+          width: 10%;
+      }
+
+      .reservation-empty{
+          opacity: 50%;
+      }
+    }
+  }

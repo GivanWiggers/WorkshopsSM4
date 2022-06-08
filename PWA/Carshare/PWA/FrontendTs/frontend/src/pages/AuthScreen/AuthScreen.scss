@@ -1,0 +1,239 @@
+.main-container {
+    position: relative;
+    height: 100vh !important;
+    width: 100vw;
+    color: #ffffff;
+}
+
+.top-container {
+    height: 37vh;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    .title {
+        position: absolute;
+        font-family: Inter-semibold;
+        font-size: 64px;
+        width: 100vw;
+        text-align: center;
+        text-shadow: 0 0px 8px rgba($color: #000000, $alpha: 1);
+    }
+    .newAvatar {
+        position: absolute;
+        font-family: Inter-semibold;
+        font-size: 64px;
+        text-align: center;
+        margin-left: calc((100vw - 200px) / 2)
+    }
+
+    .iconBackgroundImage{
+        overflow: hidden;
+        width: 100vw;
+    }
+}
+
+.bottom-container {
+    position: sticky;
+    background-color: #2D2F32;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    box-shadow: 0 -4px 8px rgba($color: #000000, $alpha: 0.25);
+    height: 63vh;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.start-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    .Button {
+        margin-top: 10px !important;
+        margin-bottom: 10px !important;
+        font-size: 24px !important;
+        font-family: Inter-bold !important;
+        border-radius: 30px !important;
+        border: 3px solid !important;
+        width: 89vw !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+    
+    .loginServices-container {
+        display: flex;
+        flex-direction: row;
+        margin: auto;
+    
+        .serviceButton {
+            width: 55px;
+            height: 55px;
+            border-radius: 100px;
+            background-color: #1A1C1F;
+            margin: 10px;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+    
+            .icon {
+                margin: auto;
+            }
+        }
+    
+        .serviceButton :hover{
+            transition: 200ms;
+            filter: blur(5px);
+        }
+    }
+    
+    .forgot {
+        font-family: Inter-semibold;
+        font-size: 14px;
+        margin: auto;
+        color: #909090;
+    }
+}
+
+.login-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #ffffff !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+
+    .Button {
+        margin-top: 10px !important;
+        margin-bottom: 10px !important;
+        font-size: 16px !important;
+        font-family: Inter-medium;
+        width: 89vw !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+
+    .textfield {
+        color: #FFFFFF !important;
+        width: 89vw;
+        margin-top: 5px !important;
+        margin-bottom: 5px !important;
+        font-family: Inter-semibold !important;
+        
+
+        label {
+            color: #FFFFFF !important;
+            font-family: Inter-regular !important;
+        }
+
+        fieldset {
+            border-color: #FFFFFF !important;
+            border-radius: 30px !important;
+        }
+
+        input {
+            color: #FFFFFF !important;
+            font-family: Inter-regular !important;
+        }
+    }
+}
+
+.first-register-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #ffffff !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+
+    .Button {
+        margin-top: 10px !important;
+        margin-bottom: 10px !important;
+        font-size: 16px !important;
+        font-family: Inter-medium;
+        width: 89vw !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+
+    .textfield {
+        color: #FFFFFF !important;
+        width: 89vw;
+        margin-top: 5px !important;
+        margin-bottom: 5px !important;
+        font-family: Inter-semibold !important;
+        
+
+        label {
+            color: #FFFFFF !important;
+            font-family: Inter-regular !important;
+        }
+
+        fieldset {
+            border-color: #FFFFFF !important;
+            border-radius: 30px !important;
+        }
+
+        input {
+            color: #FFFFFF !important;
+            font-family: Inter-regular !important;
+        }
+    }
+}
+
+.second-register-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #ffffff !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+
+    .newAvatar {
+        margin: auto;
+    }
+
+    .Button {
+        margin-top: 10px !important;
+        margin-bottom: 10px !important;
+        font-size: 16px !important;
+        font-family: Inter-medium;
+        width: 89vw !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+
+    .colorPicker {
+        width: 100%;
+        height: 150px;
+        margin-top: 5px !important;
+            margin-bottom: 5px !important;
+    }
+
+    .textfield {
+        color: #FFFFFF !important;
+        width: 89vw;
+        margin-top: 5px !important;
+        margin-bottom: 5px !important;
+        font-family: Inter-semibold !important;
+        
+
+        label {
+            color: #FFFFFF !important;
+            font-family: Inter-regular !important;
+        }
+
+        fieldset {
+            border-color: #FFFFFF !important;
+            border-radius: 30px !important;
+        }
+
+        input {
+            color: #FFFFFF !important;
+            font-family: Inter-regular !important;
+        }
+    }
+}

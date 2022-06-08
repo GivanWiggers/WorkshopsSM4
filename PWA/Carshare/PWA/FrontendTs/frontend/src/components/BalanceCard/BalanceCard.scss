@@ -1,0 +1,72 @@
+.balance-container{
+    margin: auto;
+    margin-top: 1vh;
+    width: 95%;
+    height: fit-content;
+    border-radius: 10px;
+    background-color: #2D2F32;
+    overflow: hidden;
+  
+    .balance-topper{
+      width: 100%;
+      height: 30%;
+      font-family: Inter-semibold;
+      overflow-y: hidden;
+      font-size: 13px;
+      .balance-title{
+        margin: 4%;
+        color: white;
+      }
+      p{
+        align-self: center;
+        color: #DD8419;
+        opacity: 40%;
+        margin: 4%;
+      }
+    }
+    .balance-people{
+      font-family: Inter-bold;
+      vertical-align: middle;
+      flex-direction: column;
+      height: 70%;
+      margin-bottom: 10px;
+    }
+    .balance-person{
+      display: flex;
+      justify-content: space-between;
+      width: 80%;
+      margin-left: 10%;
+      margin-bottom: 1vh;
+      
+      .balance-name {
+        font-size: 16px;
+        color: white;
+        align-self: center;
+        //margin-left: -15vw;
+        font-family: "Inter-semibold";
+        margin-right: auto;
+        margin-left: 1vw;
+      }
+      .white_Balance{
+        color: white;
+        font-size: 16px;
+        align-self: center;
+        margin-right: 10px;
+        font-family: "Inter-light";
+      }
+      .green_Balance{
+        color: green;
+        font-size: 16px;
+        align-self: center;
+        margin-right: 10px;
+        font-family: "Inter-light";
+      }
+      .red_Balance{
+        color: red;
+        font-size: 16px;
+        align-self: center;
+        margin-right: 10px;
+        font-family: "Inter-light";
+      }
+    }
+  }

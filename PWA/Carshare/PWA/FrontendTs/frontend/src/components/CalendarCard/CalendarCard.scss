@@ -1,0 +1,64 @@
+.calendarcard-container{
+    margin: auto;
+    margin-top: 1vh;
+    width: 95%;
+    height: fit-content;
+    border-radius: 10px;
+    background-color: #2D2F32;
+    overflow: hidden;
+    color: white;
+  }
+
+  .calendarcard-title{
+    padding: 15px;
+    padding-bottom: 0px;
+    font-family: Inter-semibold;
+  }
+
+  .calendarcard-person{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 1vh;
+  }
+
+  .calendarcard-name {
+    font-size: 16px;
+    color: white;
+    align-self: center;
+    font-family: "Inter-semibold";
+    margin-right: auto;
+    margin-left: 10%;
+  }
+
+  .calendarcard-people{
+    font-family: Inter-bold;
+    vertical-align: middle;
+    flex-direction: column;
+    height: 70%;
+    margin-bottom: 10px;
+}
+
+.calendarcard-date{
+  width: 100%;
+  font-family: Inter-semibold;
+}
+
+.date-title{
+  color: #909090;
+  margin: auto;
+  margin-top: -10px;
+  width: 90%;
+  border-bottom: 1px solid #909090;
+  font-size: 8px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.date{
+  margin: 4%;
+  align-self:flex-end;
+  margin:0px 15px 5px 0px;
+}

@@ -1,0 +1,54 @@
+.car-container{
+    margin: auto;
+    margin-top: 1vh;
+    width: 95%;
+    height: 27vh;
+    border-radius: 10px;
+    background-color: #2D2F32;
+    overflow: hidden;
+    color: white;
+}
+.carName{
+    margin: 14px 0px -23px 25px;
+    font-family: Inter-semibold;
+    font-size: 24px;
+    max-width: 80%;
+}
+.carImage{
+    overflow: hidden;
+    width: inherit;
+    object-fit: scale-down;
+}
+.carImage-container{
+    height: 18vh;
+    margin-left: 50%;
+    overflow: hidden;
+    width: inherit;
+    display: flex;
+}
+
+.carRange{
+    font-family: sans-serif;
+    font-size: small;
+    margin: 0px 0px 0px 25px;
+}
+
+.carStatus{
+    font-family: sans-serif;
+    font-size: small;
+    margin: 0px 0px 0px 25px;
+}
+
+.bottomBar {
+    display: flex;
+    position: relative;
+    bottom: 0;
+    width: 95vw;
+}
+
+.startTripButton {
+    font-family: Inter-semibold;
+    right: 30px;
+    bottom: -10;
+    position: absolute;
+}

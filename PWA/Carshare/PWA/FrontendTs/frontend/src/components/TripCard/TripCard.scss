@@ -1,0 +1,42 @@
+.Trip-container{
+    margin: auto;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    width: 95%;
+    height: 90px;
+    border-radius: 10px;
+    background-color: #2D2F32;
+    overflow: hidden;
+    color: white;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    vertical-align: middle;
+    .Trip-info{
+    margin: 10px;
+      font-family: Inter-semibold;
+      height: 100%;
+      flex-direction: column;
+      display: flex;
+      align-items: flex-start;
+      width: 80%;
+      h2{
+        font-size: small;
+      }
+   
+      .distance{
+        font-family: Inter-light;
+        color: grey;
+      }
+      .year{
+        font-family: Inter-light;
+      }
+      .Trip-empty{
+          opacity: 50%;
+      }
+    }
+    .Trip-avatar{
+        margin: auto;
+        width: 20%;
+    }
+  }

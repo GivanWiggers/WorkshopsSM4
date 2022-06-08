@@ -1,0 +1,120 @@
+.App {
+    text-align: center;
+    height: 100%; 
+    overflow: hidden
+  }
+  body{
+    height: 100%; 
+    overflow: hidden;
+    margin: 0;
+  }
+  .main-container{
+    background-color: #1A1C1F;
+  }
+  .safety-container{
+    overflow-y: hidden;
+  }
+  .carImageSafety{
+    width: 155%;
+    position: fixed;
+    bottom: -1%;
+    left: -26.5%;
+    margin: auto;
+  }
+  .safety-text-container{
+    margin-top: 5vh;
+  }
+  .App-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
+  .roadBrick1 {
+    position: fixed;
+    bottom: 87.5%;
+    margin-top: 20%;
+    right: 46%;
+    width: 21px;
+    height: 15%;
+    background-color: #FFCA28;
+    border: 3px solid #FFCA28;
+  }
+  .roadBrick2 {
+    position: fixed;
+    bottom: 45%;
+    margin-top: 20%;
+    right: 46%;
+    width: 21px;
+    height: 15%;
+    background-color: #FFCA28;
+    border: 3px solid #FFCA28;
+  }
+  .roadBrick3 {
+    position: fixed;
+    bottom: 5%;
+    margin-top: 20%;
+    right: 46%;
+    width: 21px;
+    height: 15%;
+    background-color: #FFCA28;
+    border: 3px solid #FFCA28;
+  }
+  
+  .Safety-container{
+    margin: auto;
+    bottom: 60%;
+    color: white;
+    text-align: center;
+    margin-top: 25%;
+  }
+  .smallText{
+    margin-top: 4%;
+    margin-bottom: 7%;
+    font-size: 20px;
+    width: 260px;
+    font-family: 'Inter-semibold';
+  }
+  .safetyNote{
+    font-size: 32px;
+    font-family: 'Inter-semibold';
+    
+  }
+  .buttonEndTrip{
+    font-family: 'Inter-bold';
+    width: 100px;
+    height: 25px;
+    font-size: 20px;
+      border: none;
+      border-radius: 5px;
+      background-color: #DD8419;
+      color: white;
+  }
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }

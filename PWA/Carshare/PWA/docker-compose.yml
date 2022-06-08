@@ -1,0 +1,14 @@
+version: '3.9'
+
+services:
+
+  pwaApi:
+    container_name: pwaApi
+    image: mcr.microsoft.com/dotnet/sdk:6.0
+    volumes:
+      - ./Backend/:/app
+    working_dir: /app/pwaApi
+    command: dotnet watch run --launch-profile DockerDev
+
+    ports:
+      - "5200:5200"

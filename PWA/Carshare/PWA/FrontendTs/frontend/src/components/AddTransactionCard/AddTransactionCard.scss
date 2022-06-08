@@ -1,0 +1,27 @@
+$MainColor: #2D2F32;
+$white: #ffffff;
+$Card-Corners: 10px;
+
+.Trans-container{
+    position: relative;
+    background-color: $MainColor;
+    border-radius: $Card-Corners;
+    color: $white;
+    font-family: sans-serif;
+    width: 95vw;
+    height: 130px;
+    margin: auto;
+    overflow: hidden;
+}
+.Trans-container img{
+    position: absolute;
+    top: 40px;
+    width: 70%;
+    margin-left: 40%;
+}
+.Trans-container h2{
+    margin: 14px 0px -23px 25px;
+    font-family: Inter-semibold;
+    font-size: 24px;
+    max-width: 80%;
+}
