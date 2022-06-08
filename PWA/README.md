@@ -39,7 +39,7 @@ Zie een paar screenshots van de app:
 ![HomeScreen](https://github.com/GivanWiggers/WorkshopsSM4/blob/main/PWA/Designs/ScreenshotHomeScreen.png)
 ![StatsScreen](https://github.com/GivanWiggers/WorkshopsSM4/blob/main/PWA/Designs/ScreenshotStatsScreen.png)
 
-Logo:
+Logo (voor nu):
 
 ![Logo](https://github.com/GivanWiggers/WorkshopsSM4/blob/main/PWA/Designs/CarShareLogo.png)
 
