@@ -10,4 +10,3 @@
 
 ## PWA Project:
 [PWA](https://github.com/GivanWiggers/WorkshopsSM4/tree/main/PWA)
-(in progress)
