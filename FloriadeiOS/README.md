@@ -3,7 +3,7 @@
 ## Floriade (iOS)
 [Appstore](https://apps.apple.com/us/app/id1614627122)
 
-[GitLab](https://git.fhict.nl/I431978/sm4-floriade)
+[GitLab repository](https://git.fhict.nl/I431978/sm4-floriade)
 
 [Floriade opdracht](https://github.com/GivanWiggers/WorkshopsSM4/blob/main/FloriadeiOS/Opdracht.pdf)
 
