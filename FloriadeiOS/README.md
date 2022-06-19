@@ -1,6 +1,10 @@
 # Semester 4 Specialisatie: Smart Mobile 
 
 ## Floriade (iOS)
+[Appstore](https://apps.apple.com/us/app/id1614627122)
+
+[GitLab](https://git.fhict.nl/I431978/sm4-floriade)
+
 [Floriade opdracht](https://github.com/GivanWiggers/WorkshopsSM4/blob/main/FloriadeiOS/Opdracht.pdf)
 
 Ik heb dit semester deelgenomen aan het Floriade project. Hier was het, vanwege een al snelle deadline, de bedoeling om zo snel mogelijk een Proof of Concept neer te zetten en een product dat door de consument gebruikt gaat worden.
